@@ -1,4 +1,8 @@
 ### Hi there 👋
+I like to train large deep neural networks on different problem set. 
+
+How to reach me:- swaraj301095@gmail.com
+
 
 <!--
 **swaraj3000/swaraj3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
